@@ -1,3 +1,6 @@
+# Link to the Colab Notebook
+https://colab.research.google.com/drive/1pcuMlTXTADom-oRskSmidgcz3iL4R4ak?usp=sharing
+
 # Analyzing the Emotional Tone of Donald Trump’s Tweets Before and After the 2016 U.S. Presidential Election
 
 ## Description
